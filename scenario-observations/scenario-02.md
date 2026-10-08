@@ -1,4 +1,4 @@
-# Scenario 03: [Scenario Name]
+# Scenario 02: [Scenario Name]
 
 ## Scenario Summary
 [Brief summary of the scenario context, objectives, and key conditions.]
